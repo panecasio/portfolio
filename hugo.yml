@@ -1,0 +1,52 @@
+baseURL: https://www.panecasio.com
+locale: en-CA
+title: Anthony Panecasio
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 10
+
+    - identifier: Resume
+      name: Résumé / CV
+      url: /resume/
+      weight: 20    
+
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 30
+      
+    - identifier: Blog
+      name: Blog
+      url: /blog/
+      weight: 40 
+
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 70
+
+params:
+  
+  homeInfoParams:
+    Title: Hey there! I'm Anthony.
+    Content: I'm a game and level designer with over a decade of experience and 5 shipped AAA titles.
+  
+  socialIcons:
+    - name: Email
+      url: mailto:anthony@panecasio.com
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/panecasio/
+    - name: Bluesky
+      url: https://bsky.app/profile/panecasio.bsky.social
+
+  showbreadcrumbs: false
+
+  markup:
+  goldmark:
+  renderer:
+    unsafe: true

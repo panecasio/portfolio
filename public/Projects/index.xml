@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anthony Panecasio</title>
+    <link>https://www.panecasio.com/projects/</link>
+    <description>Recent content on Anthony Panecasio</description>
+    <generator>Hugo</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.panecasio.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Far Cry 6</title>
+      <link>https://www.panecasio.com/projects/far-cry-6/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/projects/far-cry-6/</guid>
+      <description>Role: Game Designer @ Ubisoft Toronto</description>
+    </item>
+    <item>
+      <title>Far Cry 5</title>
+      <link>https://www.panecasio.com/projects/far-cry-5/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/projects/far-cry-5/</guid>
+      <description>Role: Senior Level Designer @ Ubisoft Toronto</description>
+    </item>
+    <item>
+      <title>Watch Dogs 2</title>
+      <link>https://www.panecasio.com/projects/watch-dogs-2/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/projects/watch-dogs-2/</guid>
+      <description>Role: Level Designer @ Ubisoft Toronto</description>
+    </item>
+    <item>
+      <title>Assassin&#39;s Creed Unity</title>
+      <link>https://www.panecasio.com/projects/assassins-creed-unity/</link>
+      <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/projects/assassins-creed-unity/</guid>
+      <description>Role: Level Designer @ Ubisoft Toronto</description>
+    </item>
+    <item>
+      <title>Splinter Cell Blacklist</title>
+      <link>https://www.panecasio.com/projects/splinter-cell-blacklist/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/projects/splinter-cell-blacklist/</guid>
+      <description>Role: Embedded Level Design Quality Control Tester @ Ubisoft Toronto</description>
+    </item>
+  </channel>
+</rss>
