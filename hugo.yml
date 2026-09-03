@@ -48,5 +48,8 @@ params:
 
   markup:
   goldmark:
+    renderHooks:
+      link:
+        enableDefault: true
   renderer:
     unsafe: true
