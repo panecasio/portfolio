@@ -6,13 +6,13 @@ summary: "Allow me to introduce myself."
 showbreadcrumbs: false
 ---
 
-I'm currently enjoying my time as a **Senior Game Designer** at [Ubisoft Toronto]("https://toronto.ubisoft.com/"). Right now, I’m working on the [*Splinter Cell Remake*]("https://news.ubisoft.com/en-us/article/4adJLuhgYrPboHAPRfK7Oz/splinter-cell-remake-begins-development-at-ubisoft-toronto"). 
+I'm currently enjoying my time as a **Senior Game Designer** at [Ubisoft Toronto](https://toronto.ubisoft.com/). Right now, I’m working on the [*Splinter Cell Remake*](https://news.ubisoft.com/en-us/article/4adJLuhgYrPboHAPRfK7Oz/splinter-cell-remake-begins-development-at-ubisoft-toronto). 
 
 Prior to this, I was a **Level Design Team Lead** at Ubisoft Toronto for several years. I loved managing and mentoring designers while I was a lead but I felt like it was time to return to trenchwork, so I’m back as an individual contributor once more!
 
-Over the course of my 14 years ([and counting]({{% ref path = "/resume" %}})) in the industry, I’ve been honoured to work as a part of teams of varying size, and I am fortunate to now have [5 shipped AAA game credits]({{% ref path = "/projects" %}}) to my name. I’ve also previously worked at [Alpha Channel]("https://www.alphachannelgames.com/company") and [Certain Affinity Toronto]("https://www.certainaffinity.com/"), serving in both Game Design and Level Design roles.
+Over the course of my 14 years ([and counting]({{% ref path = "/resume" %}})) in the industry, I’ve been honoured to work as a part of teams of varying size, and I am fortunate to now have [5 shipped AAA game credits]({{% ref path = "/projects" %}}) to my name. I’ve also previously worked at [Alpha Channel](https://www.alphachannelgames.com/company) and [Certain Affinity Toronto](https://www.certainaffinity.com/), serving in both Game Design and Level Design roles.
 
-If you're interested in knowing what I think is a fantastic game, I'd answer with [*United Game Artists'* **Rez**]("http://en.wikipedia.org/wiki/Rez"). If you want to know why, we'll have to grab coffee or hop on a call to discuss it in person.
+If you're interested in knowing what I think is a fantastic game, I'd answer with [*United Game Artists'* **Rez**](http://en.wikipedia.org/wiki/Rez). If you want to know why, we'll have to grab coffee or hop on a call to discuss it in person.
 
 ### For Students Seeking Feedback 
 
