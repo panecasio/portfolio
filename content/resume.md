@@ -1,7 +1,6 @@
 ---
 title: "Résumé / CV"
-layout: "Resume" #TODO: figure this one out
-url: "/resume/"
+url: "/resume"
 summary: "Here you can download my Résumé / CV."
 showbreadcrumbs: false
 ---

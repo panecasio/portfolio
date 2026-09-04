@@ -1,7 +1,6 @@
 ---
 title: "About Me"
-layout: "About" #TODO: figure this one out
-url: "/about/"
+url: "/about"
 summary: "Allow me to introduce myself."
 showbreadcrumbs: false
 ---

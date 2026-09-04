@@ -1,6 +1,6 @@
 ---
 title: "Contact Information"
-url: "/contact/"
+url: "/contact"
 summary: "Various ways to reach me."
 showbreadcrumbs: false
 ---
