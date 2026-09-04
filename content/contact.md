@@ -1,6 +1,5 @@
 ---
 title: "Contact Information"
-layout: "About" #TODO: figure this one out
 url: "/contact/"
 summary: "Various ways to reach me."
 showbreadcrumbs: false
