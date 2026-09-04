@@ -12,7 +12,7 @@ Prior to this, I was a **Level Design Team Lead** at Ubisoft Toronto for several
 
 Over the course of my 14 years ([and counting]({{% ref path = "/resume" %}})) in the industry, I’ve been honoured to work as a part of teams of varying size, and I am fortunate to now have [5 shipped AAA game credits]({{% ref path = "/projects" %}}) to my name. I’ve also previously worked at [Alpha Channel](https://www.alphachannelgames.com/company) and [Certain Affinity Toronto](https://www.certainaffinity.com/), serving in both Game Design and Level Design roles.
 
-If you're interested in knowing what I think is a fantastic game, I'd answer with [*United Game Artists'* **Rez**](http://en.wikipedia.org/wiki/Rez). If you want to know why, we'll have to grab coffee or hop on a call to discuss it in person.
+If you're interested in knowing what I think is a fantastic game, I'd answer with [*United Game Artists'* **Rez**](https://wikipedia.org/wiki/Rez_(video_game)). If you want to know why, we'll have to grab coffee or hop on a call to discuss it in person.
 
 ### For Students Seeking Feedback 
 
