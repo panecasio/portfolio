@@ -12,9 +12,9 @@ As a **Level Designer** on *Watch Dogs 2*, I worked on the main campaign mission
 
 ## Overview
 
-This mission takes place in the TIDIS Corporate HQ in the Silicon Valley district. I worked with level artists [Jonathan Wiley]("https://cenelder.artstation.com/") and [Sarah Cole-Megaro]("http://sarahcolemegaro.com/?page_id=1741") to design all interior and exterior spaces, starting from the initial whitebox geometry of the building campus and then worked inwards, covering mission interiors as we developed the pitch for the mission.
+This mission takes place in the TIDIS Corporate HQ in the Silicon Valley district. I worked with level artists [Jonathan Wiley](https://cenelder.artstation.com/) and [Sarah Cole-Megaro](http://sarahcolemegaro.com/?page_id=1741) to design all interior and exterior spaces, starting from the initial whitebox geometry of the building campus and then worked inwards, covering mission interiors as we developed the pitch for the mission.
 
-The mission has 3 major beats; the starting and end sections of this mission have the player taking control of 2 (two) exotic robots (Wrench Junior and The Spider Drone) that are exclusive to this mission. I worked with game designer [Michael Surya]("https://www.linkedin.com/in/michael-surya-05b4b328") and gameplay programmer [Sergio Juarez]("https://ca.linkedin.com/in/sergeminator") to pitch and iterate on the design for both of these robots.
+The mission has 3 major beats; the starting and end sections of this mission have the player taking control of 2 (two) exotic robots (Wrench Junior and The Spider Drone) that are exclusive to this mission. I worked with game designer [Michael Surya](https://www.linkedin.com/in/michael-surya-05b4b328) and gameplay programmer [Sergio Juarez](https://ca.linkedin.com/in/sergeminator) to pitch and iterate on the design for both of these robots.
  
 ## Exotic Beats: Wrench Junior, A VR Puzzle, and The Spider Drone
 

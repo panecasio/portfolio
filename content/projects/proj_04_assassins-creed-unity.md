@@ -7,9 +7,9 @@ url: "/projects/assassins-creed-unity"
 
 In the 4-Player CO-OP mission *"Les Enragés,"* players are tasked with infiltrating a heavily-guarded Asylum, liberating captive Assassin colleagues from basement cellblocks, and ending the mission by assassinating the mad priest Jacques Roux.
 
-As the **Level Designer** who owned this mission I:
-- owned the design of the layout of the interior spaces in the Asylum
-- owned the design of the layout of the Asylum's exterior grounds
+As the **Level Designer** who owned this mission:
+- I owned the design of the layout of the interior spaces in the Asylum
+- I owned the design of the layout of the Asylum's exterior grounds
 - I scripted the mission logic and NPC encounters
 - I also maintained the mission area's navmesh and related data layers
 
