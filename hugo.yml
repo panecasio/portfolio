@@ -1,7 +1,10 @@
 baseURL: https://www.panecasio.com
 locale: en-CA
 title: Anthony Panecasio
-theme: PaperMod
+theme:
+  - hugo-embed-pdf-shortcode
+  - PaperMod
+enableInlineShortcodes: true
 
 menu:
   main:
@@ -51,5 +54,9 @@ params:
     renderHooks:
       link:
         enableDefault: true
-  renderer:
-    unsafe: true
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
