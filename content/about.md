@@ -15,9 +15,6 @@ If you're interested in knowing what I think is a fantastic game, I'd answer wit
 
 ### For Students Seeking Feedback 
 
-> **WIP** This section needs links
-> <sub>{3</sub> link this to "Building A Better Portfolio" blog post
-
-I love to give feedback on portfolios and resumes, but prefer to do this **only for folks with a Level or Game Design focus**. Please be sure to read my blog post about building a better portfolio and resume first<sub>{3</sub>. After you’ve done this and made any applicable changes, [head to my Contact page]({{% ref path = "/contact" %}}) if you want to request feedback. Please be aware that I might take a bit to get back to you, especially if I’m busy at work.
+I love to give feedback on portfolios and resumes, but prefer to do this **only for folks with a Level or Game Design focus**. Please [be sure to read my blog post about building a better portfolio and resume first]({{%ref path = "/blog/portfolio-pointers"%}}). After you’ve done this and made any applicable changes, [head to my Contact page]({{% ref path = "/contact" %}}) if you want to request feedback. Please be aware that I might take a bit to get back to you, especially if I’m busy at work.
 
 ![A photo of me with some ducks.](/img/aboutme/aboutpic.jpg)*I'm the one on the left, wearing the hat.*
