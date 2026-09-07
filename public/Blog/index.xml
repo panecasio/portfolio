@@ -4,6 +4,11 @@
     <title>Anthony Panecasio</title>
     <link>https://www.panecasio.com/blog/</link>
     <description>Recent content on Anthony Panecasio</description>
+    <image>
+      <title>Anthony Panecasio</title>
+      <url>https://www.panecasio.com/static/favicon/favicon.png</url>
+      <link>https://www.panecasio.com/static/favicon/favicon.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en-CA</language>
     <lastBuildDate>Wed, 29 Jul 2026 21:45:21 -0400</lastBuildDate>

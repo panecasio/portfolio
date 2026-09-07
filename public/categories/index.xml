@@ -4,6 +4,11 @@
     <title>Categories on Anthony Panecasio</title>
     <link>https://www.panecasio.com/categories/</link>
     <description>Recent content in Categories on Anthony Panecasio</description>
+    <image>
+      <title>Anthony Panecasio</title>
+      <url>https://www.panecasio.com/static/favicon/favicon.png</url>
+      <link>https://www.panecasio.com/static/favicon/favicon.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en-CA</language>
     <atom:link href="https://www.panecasio.com/categories/index.xml" rel="self" type="application/rss+xml" />
