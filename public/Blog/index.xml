@@ -6,13 +6,20 @@
     <description>Recent content on Anthony Panecasio</description>
     <image>
       <title>Anthony Panecasio</title>
-      <url>https://www.panecasio.com/opengraph/og-1600x630.png</url>
-      <link>https://www.panecasio.com/opengraph/og-1600x630.png</link>
+      <url>https://www.panecasio.com/opengraph/og-1200x630.png</url>
+      <link>https://www.panecasio.com/opengraph/og-1200x630.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en-CA</language>
-    <lastBuildDate>Wed, 29 Jul 2026 21:45:21 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.panecasio.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read More Short Stories, Become A Better Level Designer</title>
+      <link>https://www.panecasio.com/blog/read-more-short-stories/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.panecasio.com/blog/read-more-short-stories/</guid>
+      <description>A short blog about why you should read more.</description>
+    </item>
     <item>
       <title>Work In Progress</title>
       <link>https://www.panecasio.com/blog/work-in-progress/</link>

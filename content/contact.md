@@ -15,4 +15,4 @@ anthony.panecasio@ubisoft.com
 https://www.linkedin.com/in/panecasio/
 
 ### Bluesky: 
-https://bsky.app/profile/panecasio.bsky.social
+https://bsky.app/profile/panecasio.com
