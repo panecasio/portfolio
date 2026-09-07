@@ -50,7 +50,7 @@ params:
       url: https://bsky.app/profile/panecasio.com
 
   images: # opengraph fallback image
-    - "static/favicon/favicon.png"
+    - "/favicon/favicon.png"
 
   showbreadcrumbs: false
 
