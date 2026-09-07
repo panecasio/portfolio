@@ -39,6 +39,8 @@ params:
     Title: Hey there! I'm Anthony.
     Content: I'm a game and level designer with over a decade of experience and 5 shipped AAA titles.
   
+  description: Design portfolio for Anthony Panecasio. Anthony has over a decade of experience in AAA and has helped shipped more than 5 games in game and level design roles.
+  
   socialIcons:
     - name: Email
       url: mailto:anthony@panecasio.com
