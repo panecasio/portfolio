@@ -5,8 +5,8 @@ summary: "Here you can download my Résumé / CV."
 showbreadcrumbs: false
 ---
 You can download my Résumé / CV in the following formats:
-- .docx ([click here](/CV/Anthony_Panecasio_CV_2026.docx))
-- .pdf ([click here](/CV/Anthony_Panecasio_CV_2026.pdf))
+- .docx ([click here](/CV/Anthony_Panecasio_CV_2026_v2.docx))
+- .pdf ([click here](/CV/Anthony_Panecasio_CV_2026_v2.pdf))
 
 You can also view an embedded version below. ⤵
-{{< embed-pdf url="/CV/Anthony_Panecasio_CV_2026.pdf" >}}
+{{< embed-pdf url="/CV/Anthony_Panecasio_CV_2026_v2.pdf" >}}
