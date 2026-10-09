@@ -5,7 +5,7 @@ summary: "Allow me to introduce myself."
 showbreadcrumbs: false
 ---
 
-I'm currently enjoying my time as a **Senior Game Designer** at [Ubisoft Toronto](https://toronto.ubisoft.com/). Right now, I’m working on the [*Splinter Cell Remake*](https://news.ubisoft.com/en-us/article/4adJLuhgYrPboHAPRfK7Oz/splinter-cell-remake-begins-development-at-ubisoft-toronto). 
+I'm currently enjoying my time as a **Senior Level Designer** at [Torn Banner Studios](https://tornbanner.com/). Right now, I’m working on [*No More Room In Hell 2*](https://www.nmrih2.com/). 
 
 Prior to this, I was a **Level Design Team Lead** at Ubisoft Toronto for several years. I loved managing and mentoring designers while I was a lead but I felt like it was time to return to trenchwork, so I’m back as an individual contributor once more!
 
